@@ -1,0 +1,33 @@
+html { 
+  background: url(../imagenes/fondo.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  -webkit-font-smoothing: antialiased;
+}
+
+.contenido {
+	background-color: rgba(0,0,0,0.7);
+	color: white;
+	font-size: 15px;
+	padding: 45px;
+	height: 1000px;
+	width: 400px;
+	margin: 150px auto;
+}
+
+.perfil{
+	height: 100px;
+	width: 80px;
+	border-radius: 80%; 
+}
+
+body {
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   font-weight: 300;
+}
+ .experiencia{
+color:white;
+border-left:10px;
+}
